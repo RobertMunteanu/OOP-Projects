@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1572450944 source:d:\codeblocks projects\tema_17\main.cpp
+	<iostream>
+	<Graf.h>
+
+1572452247 source:d:\codeblocks projects\tema_17\src\graf.cpp
+	"Graf.h"
+
+1572452066 d:\codeblocks projects\tema_17\include\graf.h
+	<iostream>
+

@@ -18,9 +18,6 @@
     <ClCompile Include="proiect_poo_2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\..\..\..\Downloads\Complex.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Vector.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
@@ -50,5 +47,10 @@
     <ClInclude Include="Management.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Library Include="..\..\..\..\..\Downloads\Complex.cpp">
+      <Filter>Source Files</Filter>
+    </Library>
   </ItemGroup>
 </Project>

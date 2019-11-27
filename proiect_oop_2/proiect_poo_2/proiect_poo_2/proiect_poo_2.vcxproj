@@ -151,7 +151,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\Downloads\Complex.cpp" />
+    <Library Include="..\..\..\..\..\Downloads\Complex.cpp" />
     <ClCompile Include="Coada.cpp" />
     <ClCompile Include="Management.cpp" />
     <ClCompile Include="proiect_poo_2.cpp" />

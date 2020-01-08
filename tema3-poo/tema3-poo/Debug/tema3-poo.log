@@ -1,0 +1,8 @@
+﻿  FirmaDistributie.cpp
+C:\Users\sid_r\source\repos\tema3-poo\tema3-poo\actor.h(5,25): warning C4305: 'initializing': truncation from 'double' to 'const float'
+C:\Users\sid_r\source\repos\tema3-poo\tema3-poo\actor.h(10,90): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\sid_r\source\repos\tema3-poo\tema3-poo\FirmaDistributie.cpp(53,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sid_r\source\repos\tema3-poo\tema3-poo\FirmaDistributie.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sid_r\source\repos\tema3-poo\tema3-poo\FirmaDistributie.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\sid_r\source\repos\tema3-poo\tema3-poo\FirmaDistributie.cpp(75,20): warning C4018: '<': signed/unsigned mismatch
+  tema3-poo.vcxproj -> C:\Users\sid_r\source\repos\tema3-poo\Debug\tema3-poo.exe
